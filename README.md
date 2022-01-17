@@ -44,3 +44,5 @@ Due to large file sizes, data for this analysis is **NOT** hosted in the reposit
             - dma_admn_adm0_py_s1_dominode_v2.shp
             - dma_admn_adm0_py_s1_dominode_v2.shp
             - dma_admn_adm0_py_s1_dominode_v2.shx
+
+Original data and assignment instructions can be found [here](https://jamesfrew.github.io/EDS_223_spatial_analysis/assignments/3/HW3.html). 
