@@ -1,4 +1,4 @@
-# EDS 223: Spatial Analysis for Environmental Data Science - Protecting Whales from Ships
+# EDS 223: Spatial Analysis for Environmental Data Science - Protecting Whales from Ships (Fall Quarter 2021)
 ### Student authors: Mia Forsline & Alexandra Yousefivand
 ### Due 2021-11-16 
 ### Course instructor: Dr. James Frew
